@@ -1,0 +1,203 @@
+{
+    "burger": [
+      {
+        "name": "Classic Burger",
+        "category":"Burger",
+        "description": "Our classic burger with a juicy beef patty, lettuce, tomato, onions, pickles, ketchup, and mustard.",
+        "price": 8.99,
+        "rating": 2.5,
+        "reviewCount": 388,
+        "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=999&q=80"
+      },
+      {
+        "name": "Bacon Cheeseburger",
+        "category":"Burger",
+        "description": "Our classic burger with crispy bacon and melted cheddar cheese.",
+        "price": 10.99,
+        "rating": 3.9,
+        "reviewCount": 43,
+        "image_url": "https://bakeitwithlove.com/wp-content/uploads/2021/08/Western-Bacon-Cheeseburger-sq.jpg"
+      },
+      {
+        "name": "Mushroom Swiss Burger",
+        "category":"Burger",
+        "description": "Our classic burger with sautéed mushrooms and melted Swiss cheese.",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 2331,
+        "image_url": "https://images.unsplash.com/photo-1596956470007-2bf6095e7e16?"
+      },
+      {
+        "name": "Chicken Burger",
+        "category":"Burger",
+        "description": "A vegetarian option with a grilled vegetable patty, lettuce, tomato, onions, pickles, and mayonnaise.",
+        "price": 7.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://img.chefkoch-cdn.de/rezepte/3329761494357421/bilder/1018367/crop-960x720/crispy-chicken-burger.jpg"
+      },
+
+      {
+        "name": "Lentil Burger",
+        "category":"Vegan",
+        "description": "Ein herzhafter Burger mit einer Linsen-Patty, serviert mit gerösteten Paprika, Spinat und einer würzigen veganen Joghurt-Dill-Sauce.",
+        "price": 7.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://veganbell.com/wp-content/uploads/2021/11/Lentil-Burger-Recipe.jpg"
+      },
+      {
+        "name": "Veggie Burger",
+        "category":"Vegan",
+        "description": "A vegetarian option with a grilled vegetable patty, lettuce, tomato, onions, pickles, and mayonnaise.",
+        "price": 7.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://images.unsplash.com/photo-1585730316463-715e64340a2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80"
+      },
+      {
+        "name": "Hawaii Burger",
+        "category":"Burger",
+        "description": "Ein Burger mit gegrilltem Hühnerfleisch-Patty, Ananas-Scheibe, Teriyaki-Soße und Salat.",
+        "price": 7.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://www.herdmitherz.de/wp-content/uploads/2020/06/hawaii-burger.jpeg"
+      },
+      {
+        "name": "Turkey Burger",
+        "category":"Burger",
+        "description": "Ein Burger mit einem saftigen Puten-Patty, Salat, Tomate, Zwiebeln und Joghurt-Dressing.",
+        "price": 7.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://tastesbetterfromscratch.com/wp-content/uploads/2020/07/Turkey-Burgers-1.jpg"
+      },
+      {
+        "name": "Portobello Burger",
+        "category":"Vegan",
+        "description": "Ein Burger mit gegrilltem Portobello-Pilz, Rucola, Tomate, Ziegenkäse und Balsamico-Glasur.",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://www.wellplated.com/wp-content/uploads/2019/07/Stuffed-Portobello-Mushroom-Burger.jpg"
+      },
+      {
+        "name": "Jalapeno Burger",
+        "category":"Burger",
+        "description": "Unser klassischer Burger mit scharfen Jalapenos, Pepper Jack-Käse, Chipotle-Mayonnaise und Salat.",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://www.chilitochoc.com/wp-content/uploads/2022/10/the-ultimate-cheeseburger-with-pickled-jalapenos-1.jpg"
+      },
+      {
+        "name": "Avocado Burger",
+        "category":"Burger",
+        "description": "Ein Burger mit einem saftigen Rindfleisch-Patty, Avocado-Scheibe, Rucola, Tomate und Knoblauch-Mayonnaise",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://images.eatsmarter.de/sites/default/files/styles/576x432/public/burger-mit-avocado-324707.jpg"
+      },
+      {
+        "name": "Black Bean Burger",
+        "category":"Vegan",
+        "description": "Ein Burger mit einem saftigen schwarzen Bohnen-Patty, Avocado, Koriander und Chipotle-Mayonnaise.",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://www.realsimple.com/thmb/z3cQCYXTyDQS9ddsqqlTVE8fnpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/real-simple-mushroom-black-bean-burgers-recipe-0c365277d4294e6db2daa3353d6ff605.jpg"
+      },
+      {
+        "name": "BBQ Pulled Pork Burger",
+        "category":"Burger",
+        "description": "Ein Burger mit langsam gegartem BBQ-Pulled-Pork, Cole Slaw, eingelegten Gurken und Barbecue-Soße",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://images.eatsmarter.de/sites/default/files/styles/max_size/public/vegane-pulled-pork-burger-639570-1.jpg"
+      },
+      {
+        "name": "Lachs-Burger",
+        "category":"Burger",
+        "description": "Ein köstlicher Burger mit einem gegrillten Lachs-Patty, serviert mit Salat, Tomate, roten Zwiebeln und einer würzigen Dillsauce",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://www.eatclub.tv/wp-content/uploads/sites/4/2021/11/Lachs-Burger-mit-Avocado.jpg"
+      },
+      {
+        "name": "Cola",
+        "category":"Getränke",
+        "description": "Erfrischendes kohlensäurehaltiges Cola-Getränk",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://image.gala.de/22306752/t/y_/v7/w1440/r1/-/kalte-cola.jpg"
+      },
+      {
+        "name": "Limonade",
+        "category":"Getränke",
+        "description": "Spritzige Zitronenlimonade mit einer Prise frischer Minze",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://peterpane.de/wp-content/uploads/2020/10/peters-limonade-hausgemacht.png"
+      },
+      {
+        "name": "Eistee",
+        "category":"Getränke",
+        "description": "Erfrischender Eistee mit einem Hauch von Zitrone.",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://kitchengirls.de/uploads/media/original/09/1139-13506-Pfirsich-Eistee-selber-machen.jpg?v=1-0"
+      },
+      {
+        "name": "Bier",
+        "category":"Getränke",
+        "description": "Erfrischendes und malziges Pilsner-Bier.",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://image.geo.de/30124472/t/Cx/v4/w1440/r0/-/bier-gezapft-f-154936574-jpeg--70436-.jpg"
+      },
+      {
+        "name": "Weißwein",
+        "category":"Getränke",
+        "description": "Ein frischer und fruchtiger Chardonnay mit einer leichten Vanillenote.",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://herrlan-shop.de/images/product_images/popup_images/aroma-weinweisswein.jpg"
+      },
+      {
+        "name": "Pommes Frites",
+        "category":"Beilage",
+        "description": "Knusprig frittierte Kartoffelstäbchen, perfekt gewürzt.",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://poms-feinkost.de/store/691-large_default/frische-pommes-frites-plus-10-mm-5-kg.jpg"
+      },
+      {
+        "name": "Süßkartoffel-Pommes",
+        "category":"Beilage",
+        "description": "Knusprige Pommes Frites aus Süßkartoffeln, leicht gesalzen.",
+        "price": 9.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://www.gutekueche.at/storage/media/recipe/21429/conv/suesskartoffel-pommes-aus-dem-ofen-default.jpg"
+      },
+      {
+        "name": "BBQ Burger",
+        "category":"Burger",
+        "description": "Unser klassischer Burger mit knusprigem Speck, Barbecue-Soße, geschmolzenem Cheddar-Käse und Zwiebelringen.",
+        "price": 7.99,
+        "rating": 3.9,
+        "reviewCount": 117,
+        "image_url": "https://www.gourmetfleisch.de/shop/images/products/gallery/detail/13980_1.jpg"
+      }
+    ]
+  }

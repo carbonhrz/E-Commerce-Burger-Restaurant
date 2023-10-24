@@ -1,0 +1,17 @@
+aslamanver.vsc-export
+bradlc.vscode-tailwindcss
+dsznajder.es7-react-js-snippets
+ecmel.vscode-html-css
+geyao.html-snippets
+mgmcdermott.vscode-language-babel
+MS-CEINTL.vscode-language-pack-de
+redhat.java
+thekalinga.bootstrap4-vscode
+VisualStudioExptTeam.intellicode-api-usage-examples
+VisualStudioExptTeam.vscodeintellicode
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven
+xabikos.JavaScriptSnippets
